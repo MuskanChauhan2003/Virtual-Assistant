@@ -28,8 +28,9 @@ It allows users to create their own personalized assistant, customize its behavi
 
 ![Signup Page](https://drive.google.com/uc?export=view&id=1N5FAUvPNujtd2UuHphwc6cu2LJuq1Ja3)
 
-![Login Page](https://drive.google.com/file/d/1nIvtSHV2AjCmb4154v9jSNvCndeu0PTN/view?usp=sharing)
+![Login Page](https://drive.google.com/uc?export=view&id=1nIvtSHV2AjCmb4154v9jSNvCndeu0PTN)
 
-![Choose your Assistant](https://drive.google.com/file/d/1VVQGaSifVCpjqP0TGjzhF0jVSTZkmVdr/view?usp=sharing)
+![Choose your Assistant](https://drive.google.com/uc?export=view&id=1VVQGaSifVCpjqP0TGjzhF0jVSTZkmVdr)
 
-![Name your Assistant](https://drive.google.com/file/d/1O-iH1gkLNgD9lC6Olt9Exjp9gnPLJYIQ/view?usp=sharing)
+![Name your Assistant](https://drive.google.com/uc?export=view&id=1O-iH1gkLNgD9lC6Olt9Exjp9gnPLJYIQ)
+
