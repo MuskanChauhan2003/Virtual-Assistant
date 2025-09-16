@@ -26,7 +26,7 @@ It allows users to create their own personalized assistant, customize its behavi
 
 ## 📸 Screenshots
 
-![Signup Page](https://drive.google.com/file/d/1N5FAUvPNujtd2UuHphwc6cu2LJuq1Ja3/view?usp=sharing)
+![Signup Page](https://drive.google.com/uc?export=view&id=1N5FAUvPNujtd2UuHphwc6cu2LJuq1Ja3)
 
 ![Login Page](https://drive.google.com/file/d/1nIvtSHV2AjCmb4154v9jSNvCndeu0PTN/view?usp=sharing)
 
