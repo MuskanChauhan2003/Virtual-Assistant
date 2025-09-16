@@ -1,12 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧠 Virtual Assistant (Customizable with MERN + Gemini API)
 
-Currently, two official plugins are available:
+This is a **customizable Virtual Assistant** built using the **MERN stack (MongoDB, Express.js, React, Node.js)** and powered by **Google Gemini API**.  
+It allows users to create their own personalized assistant, customize its behavior, and interact in real-time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 🔧 **Customizable Assistant** (Name, Image, Personality, etc.)
+- 💬 **Smart Conversations** using Gemini API
+- 🌐 **Full-Stack MERN Architecture**
+- 🔒 **User Authentication & Authorization**
+- 💾 **Persistent History** (conversations saved in MongoDB)
+- 🎨 **Modern UI** built with React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js  
+- **Backend:** Node.js + Express.js  
+- **Database:** MongoDB  
+- **AI Model:** Google Gemini API  
+
+---
+
+## 📸 Screenshots
+
+![Signup Page](https://drive.google.com/file/d/1N5FAUvPNujtd2UuHphwc6cu2LJuq1Ja3/view?usp=sharing)
+
+![Login Page](https://drive.google.com/file/d/1nIvtSHV2AjCmb4154v9jSNvCndeu0PTN/view?usp=sharing)
+
+![Choose your Assistant](https://drive.google.com/file/d/1VVQGaSifVCpjqP0TGjzhF0jVSTZkmVdr/view?usp=sharing)
+
+![Name your Assistant](https://drive.google.com/file/d/1O-iH1gkLNgD9lC6Olt9Exjp9gnPLJYIQ/view?usp=sharing)
+---
