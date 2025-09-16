@@ -33,4 +33,3 @@ It allows users to create their own personalized assistant, customize its behavi
 ![Choose your Assistant](https://drive.google.com/file/d/1VVQGaSifVCpjqP0TGjzhF0jVSTZkmVdr/view?usp=sharing)
 
 ![Name your Assistant](https://drive.google.com/file/d/1O-iH1gkLNgD9lC6Olt9Exjp9gnPLJYIQ/view?usp=sharing)
----
